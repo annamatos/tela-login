@@ -1,0 +1,25 @@
+.banner .container{
+background-color: white;
+width: 400px;     
+height: 300px;
+color: #E6005A;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+}
+.container h2{
+    font-size: 30px;
+}
+.loginC{
+ display: flex;
+ flex-direction: column;
+ width: 200px;
+}
+.container button{
+    color: white;
+    background-color: #E6005A;
+    border-radius: 10px;
+    
+}
